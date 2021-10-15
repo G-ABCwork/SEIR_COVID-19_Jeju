@@ -9,7 +9,7 @@
   <img src = "./Jeju SEIR model flow chart.png">
 </p>
 
-* Example of the analysis results
+* The preview of the analysis results
 
 <p align="center"> 
   <img src = "./Example.png">
